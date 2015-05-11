@@ -28,6 +28,7 @@ Autoloader::add_classes(array(
 	'OAuth2\\Provider_Paypal'	  	=> __DIR__.'/classes/provider/paypal.php',
 	'OAuth2\\Provider_Soundcloud'  	=> __DIR__.'/classes/provider/soundcloud.php',
 	'OAuth2\\Provider_Windowslive'  => __DIR__.'/classes/provider/windowslive.php',
+	'OAuth2\\Provider_Mailchimp'  => __DIR__.'/classes/provider/mailchimp.php',
 	
 	'OAuth2\\Request'  				=> __DIR__.'/classes/request.php',
 	'OAuth2\\Server'  				=> __DIR__.'/classes/server.php',
